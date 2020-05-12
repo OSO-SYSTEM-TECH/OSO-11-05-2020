@@ -1,0 +1,21 @@
+/\ - completed
+
+Create:
+    manage_order_notcompleted_list.php
+    
+    back button in evey file
+    
+Delete:
+    sidebar:
+    
+Update:
+    api.php
+    
+    proifile picture upload (IOS)
+    
+Look into:
+    shutodown rpi with script
+    
+    OSO TV scalling
+    
+    

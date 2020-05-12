@@ -1,0 +1,235 @@
+[11-Jun-2019 21:37:24 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[12-Jun-2019 15:52:21 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:03 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:11 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:32:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:48:11 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:52:36 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[13-Jun-2019 21:59:32 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:45:44 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:45:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:48:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:51:57 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:14 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:16 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:54:26 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:57:31 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:57:34 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 63
+[14-Jun-2019 01:59:18 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home3/osocorp1/public_html/OSO/add_submenu.php on line 185
+[16-Jun-2019 14:13:38 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[16-Jun-2019 14:13:43 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[16-Jun-2019 14:13:57 America/Chicago] PHP Parse error:  syntax error, unexpected '" alt="' (T_CONSTANT_ENCAPSED_STRING) in /home3/osocorp1/public_html/OSO/user_forgot_pass_api.php on line 25
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:05:36 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:33 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 19
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 26
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 32
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 39
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 46
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:06:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 53
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/osocorp1/public_html/home.php on line 16
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 20
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 20
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 27
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 27
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 33
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 33
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 40
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 40
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 47
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 47
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/osocorp1/public_html/home.php on line 54
+[11-Jul-2019 16:08:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/osocorp1/public_html/home.php on line 54
+[14-Jul-2019 17:27:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/osocorp1/public_html/language/language.php on line 40
+[14-Feb-2020 15:24:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 30
+[14-Feb-2020 15:24:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 34
+[14-Feb-2020 15:24:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 36
+[14-Feb-2020 15:25:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 30
+[14-Feb-2020 15:25:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 34
+[14-Feb-2020 15:25:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 36
+[14-Feb-2020 15:25:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 30
+[14-Feb-2020 15:25:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 34
+[14-Feb-2020 15:25:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 36
+[14-Feb-2020 15:25:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 30
+[14-Feb-2020 15:25:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 34
+[14-Feb-2020 15:25:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 36
+[14-Feb-2020 15:28:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 30
+[14-Feb-2020 15:28:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 34
+[14-Feb-2020 15:28:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/oso/kitchen.oso-stagcafe.com/manage_order_shakes_list.php on line 36
+[20-Feb-2020 14:33:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''menu_image'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/oso/kitchen.oso-stagcafe.com/add_submenu.php on line 185
+[20-Feb-2020 16:55:33 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/add_submenu.php on line 24
+[20-Feb-2020 22:36:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/add_submenu.php on line 24
+[24-Feb-2020 22:27:36 America/Chicago] PHP Parse error:  syntax error, unexpected ''menu_image'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home3/oso/kitchen.oso-stagcafe.com/add_submenu.php on line 185
+[26-Feb-2020 02:09:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 44
+[07-Mar-2020 01:48:45 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home3/oso/kitchen.oso-stagcafe.com/manage_order_grill_list.php on line 331
+[21-Mar-2020 02:19:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 115
+[21-Mar-2020 12:04:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 115
+[22-Mar-2020 15:54:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 42
+[22-Mar-2020 22:14:49 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 27
+[22-Mar-2020 22:34:54 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/oso/kitchen.oso-stagcafe.com/Open_OSO.php on line 33
+[13-Apr-2020 01:31:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 01:31:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 01:32:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 01:32:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 01:32:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 01:32:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_push' (T_STRING) in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 609
+[13-Apr-2020 21:43:44 America/Chicago] PHP Fatal error:  Cannot redeclare adminUser() (previously declared in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:4) in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 24
+[13-Apr-2020 21:43:47 America/Chicago] PHP Fatal error:  Cannot redeclare adminUser() (previously declared in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:4) in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 24
+[13-Apr-2020 22:12:46 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 267
+[13-Apr-2020 22:19:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 278
+[13-Apr-2020 22:19:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 278
+[13-Apr-2020 22:22:43 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 254
+[13-Apr-2020 22:27:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 254
+[13-Apr-2020 22:33:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendMessage() in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:254
+Stack trace:
+#0 /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php(9): require()
+#1 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 254
+[13-Apr-2020 22:34:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendMessage() in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:254
+Stack trace:
+#0 /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php(9): require()
+#1 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 254
+[13-Apr-2020 22:35:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendMessage() in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:254
+Stack trace:
+#0 /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php(9): require()
+#1 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 254
+[13-Apr-2020 22:35:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 406
+[13-Apr-2020 22:37:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendMessage() in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php:254
+Stack trace:
+#0 /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php(9): require()
+#1 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/includes/function.php on line 254
+[17-Apr-2020 01:49:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 408
+[17-Apr-2020 12:56:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/oso/kitchen.oso-stagcafe.com/manage_order_all_list.php on line 446
+[22-Apr-2020 12:32:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:146
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 146
+[22-Apr-2020 20:04:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:146
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 146
+[22-Apr-2020 20:05:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:271
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 271
+[25-Apr-2020 20:08:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:236
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 236
+[25-Apr-2020 20:09:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:236
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 236
+[25-Apr-2020 20:09:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:236
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 236
+[25-Apr-2020 20:42:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function array_calues() in /home3/oso/kitchen.oso-stagcafe.com/api.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 129
+[25-Apr-2020 21:10:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:10:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:12:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:12:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:14:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:16:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:20:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:23:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:24:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:26:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:27:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:43:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:238
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 238
+[25-Apr-2020 21:46:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
+[25-Apr-2020 21:47:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
+[25-Apr-2020 21:49:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
+[25-Apr-2020 21:54:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
+[25-Apr-2020 21:55:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
+[25-Apr-2020 21:55:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home3/oso/kitchen.oso-stagcafe.com/api.php:240
+Stack trace:
+#0 {main}
+  thrown in /home3/oso/kitchen.oso-stagcafe.com/api.php on line 240
